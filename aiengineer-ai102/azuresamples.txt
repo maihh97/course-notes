@@ -1,0 +1,21 @@
+AI Samples: https://github.com/Azure-Samples/azureai-samples
+AI App Templates: https://azure.github.io/ai-app-templates/
+Generative AI for beginners: https://aka.ms/genai-beginners
+AI Agent for beginners:https://aka.ms/ai-agents-beginners
+Vision: https://github.com/Azure-Samples/azure-ai-vision-sdk
+Language: https://github.com/Azure-Samples/Azure-Language-OpenAI-Conversational-Agent-Accelerator
+https://github.com/Azure-Samples/cognitive-service-language-samples
+Speech: https://github.com/Azure-Samples/cognitive-services-speech-sdk
+Document Intelligence: https://github.com/Azure-Samples/document-intelligence-code-samples
+Document Intelligence + OpenAI: https://github.com/Azure-Samples/azure-ai-document-processing-samples
+Azure AI Vector Search: https://github.com/Azure/azure-search-vector-samples?tab=readme-ov-file
+RAG with Azure AI Search: https://github.com/Azure-Samples/rag-with-azure-ai-search-notebooks
+AI Search:https://github.com/Azure-Samples/azure-search-knowledge-mining
+SDK for Python: https://github.com/Azure/azure-sdk-for-python/tree/main/sdk
+SDK for .Net: https://github.com/Azure/azure-sdk-for-net/tree/main/sdk
+SDK for Java: https://github.com/Azure/azure-sdk-for-java/tree/main/sdk
+SDK for JavaScript: https://github.com/Azure/azure-sdk-for-js/tree/main/sdk
+Exam practice assessment: https://learn.microsoft.com/en-gb/credentials/certifications/practice-assessments-for-microsoft-certifications
+Exam page:
+- https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification
+- Prep videos: https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-ai-102-plan-and-manage-an-azure-ai-solution
